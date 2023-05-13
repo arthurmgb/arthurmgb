@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm Arthur Oliveira</h1>
+<p><img height="140em" align="right" src="https://cdn.discordapp.com/attachments/1106972998851895396/1107005061999120495/9b946991-dd73-478d-bdb6-f8b249d84186.jpg" alt="avatar" /></p>
 <h3 align="left">A technology enthusiast dedicated to crafting innovative solutions!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurmgb&label=Profile%20views&color=0e75b6&style=flat" alt="arthurmgb" /> </p>
@@ -40,8 +41,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmgb&show_icons=true&locale=en&layout=compact" alt="arthurmgb" /></p>
+<p><img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmgb&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="arthurmgb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurmgb&show_icons=true&locale=en" alt="arthurmgb" /></p>
+<p><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=arthurmgb&show_icons=true&locale=en&theme=github_dark" alt="arthurmgb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurmgb&" alt="arthurmgb" /></p>
+<p><img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurmgb&theme=github_dark" alt="arthurmgb" /></p>
