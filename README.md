@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurmgb&label=Profile%20views&color=0e75b6&style=flat" alt="arthurmgb" /> </p>
 
-- 👨‍💻 Full Stack **Web Developer** focused on ***PHP*** and ***Laravel***
+- 👨‍💻 Full Stack **Web Developer** focused on **PHP** and **Laravel**
 
-- 🔭 I’m currently working on [Cashiers](https://github.com/arthurmgb/Cashiers)
+- 🔭 I’m currently working on **[Cashiers](https://github.com/arthurmgb/Cashiers)**
 
 - 🌱 I’m currently learning **React**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dev.arthuroliveira@gmail.com**
 
-- 📄 Know about my experiences [clicking here](https://drive.google.com/file/d/1vGtYaGecdfrqfeikS4S6_AXkwZY4fT4D/view?usp=sharing) (pt-BR)
+- 📄 Know about my experiences **[clicking here](https://drive.google.com/file/d/1vGtYaGecdfrqfeikS4S6_AXkwZY4fT4D/view?usp=sharing)** (pt-BR)
 
 - ⚡ Fun fact **I love Nintendo ❤**
 
