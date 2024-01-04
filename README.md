@@ -6,7 +6,7 @@
 
 - 👨‍💻 Full Stack **Web Developer** focused on **PHP** and **Laravel**
 
-- 🔭 I’m currently working on **[Cashiers](https://github.com/arthurmgb/Cashiers)**
+- 🔭 I’m currently working on **[SYgest](https://github.com/arthurmgb/sygest)**
 
 - 🌱 I’m currently learning **React**
 
