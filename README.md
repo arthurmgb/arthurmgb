@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Arthur Oliveira</h1>
-<p><img height="140em" align="right" src="https://gitlab.com/uploads/-/system/project/avatar/46361594/png-transparent-php-java-initiation-miscellaneous-blue-mammal.png" alt="avatar" /></p>
+<p><img height="140em" align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="avatar" /></p>
 <h3 align="left">A technology enthusiast dedicated to developing innovative solutions!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurmgb&label=Profile%20views&color=0e75b6&style=flat" alt="arthurmgb" /> </p>
