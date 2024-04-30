@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Arthur Oliveira</h1>
-<p><img height="140em" align="right" src="https://cdn.discordapp.com/attachments/1106972998851895396/1107005061999120495/9b946991-dd73-478d-bdb6-f8b249d84186.jpg" alt="avatar" /></p>
+<p><img height="140em" align="right" src="https://gitlab.com/uploads/-/system/project/avatar/46361594/png-transparent-php-java-initiation-miscellaneous-blue-mammal.png" alt="avatar" /></p>
 <h3 align="left">A technology enthusiast dedicated to developing innovative solutions!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurmgb&label=Profile%20views&color=0e75b6&style=flat" alt="arthurmgb" /> </p>
 
 - 👨‍💻 Full Stack **Web Developer** focused on **PHP** and **Laravel**
 
-- 🔭 I’m currently working on **[SYgest](https://github.com/arthurmgb/sygest)**
+- 🔭 I’m currently working on **[???](https://github.com/arthurmgb/sygest)**
 
 - 🌱 I’m currently learning **React**
 
