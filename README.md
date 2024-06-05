@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dev.arthuroliveira@gmail.com**
 
-- 📄 Know about my experiences **[clicking here](https://drive.google.com/file/d/1cOAZ0bf2uq-KygbSQ_19ssv9EW587hi7/view?usp=sharing)** (pt-BR)
+- 📄 Know about my experiences **[clicking here](https://docs.google.com/document/d/1MVzzWdxLHZVzt9KayPrOVMLL67aWYxDa0TlRWofzKZE/edit?usp=drive_link)** (pt-BR)
 
 - ⚡ Fun fact **I love Nintendo ❤**
 
