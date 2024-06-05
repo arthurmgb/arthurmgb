@@ -6,7 +6,7 @@
 
 - 👨‍💻 Full Stack **Web Developer** focused on **PHP** and **Laravel**
 
-- 🔭 I’m currently working on **[???](https://github.com/arthurmgb/sygest)**
+- 🔭 I’m currently working on **[sygest](https://github.com/arthurmgb/sygest)**
 
 - 🌱 I’m currently learning **React**
 
